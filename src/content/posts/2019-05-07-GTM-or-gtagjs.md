@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: Google Tag Manager (GTM) or Global Site Tag (gtag.js)?
+title: Google Tag Manager (GTM) or Global Site Tag (gtag.js)
 date: 2019-05-07 
-slug: Google Tag Manager (GTM) or Global Site Tag (gtag.js)? 
+slug: Google Tag Manager (GTM) or Global Site Tag (gtag.js)
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
 ---
 

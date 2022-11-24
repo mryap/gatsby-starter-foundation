@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: YAP S S
+tagline: "DO Data Analytics Differently "
+featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I help marketers capture, analyze, optimize every customer across all digital and non-digital touch-points. I make sure

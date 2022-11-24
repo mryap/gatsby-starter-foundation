@@ -2,12 +2,12 @@
 template: blog-post
 title: Mastodon 101
 slug: 5 mins guide to Mastodon
-date: 2022-11-01
+date: 2022-11-01T00:00:00.000Z
 description: What you need to know about Mastodon
 ---
 
 
-Moving to Mastodon? Make life easier for your followers. Post your new handle as a web link such as “[http://mastodon.social/@tjmcintyre](https://t.co/LJkocpWVwj)”, not “@tjmcintyre@mastodon.social” which displays as an email address.
+Moving to Mastodon? Make life easier for your followers. Post your new handle as a web link such as “[http://mastodon.social/@mryap](https://t.co/LJkocpWVwj)”, not “@mryap@mastodon.social” which displays as an email address.
 
 If you want to import the people you follow on Twitter to your Mastodon acct (if they’re there), put your full ![](https://abs-0.twimg.com/emoji/v2/svg/1f9a3.svg "🦣") address in your Twitter bio, go to [http://fedifinder.glitch.me](https://t.co/3SzqNpucHD), enter your Twitter login, and it will find them.
 Export the file, go to ‘import’ in ![](https://abs-0.twimg.com/emoji/v2/svg/1f9a3.svg "🦣") settings
@@ -26,9 +26,9 @@ There are no mysterious profit-based algorithms feeding and filtering posts, so 
 
 To get a sense of Mastodon overall, and how things work, checkout [https://axbom.com/mastodon-tips/](https://t.co/bWgJETog5T) and [http://fedi.tips](https://t.co/R4rsbbTU5A)
 
-* Hat Tips to
+### Hat Tips to
 
-  **Karlin Lillington**, Irish Times tech columnist\
-  **TJ McIntyre**, Associate Professor [@UCDLawSchool](https://twitter.com/UCDLawSchool)
-  **Michael Veale**, Associate Professor in Digital Rights & Regulation, [@UCLLaws](https://twitter.com/UCLLaws)
+**Karlin Lillington**, Irish Times tech columnist\
+**TJ McIntyre**, Associate Professor [@UCDLawSchool](https://twitter.com/UCDLawSchool)\
+**Michael Veale**, Associate Professor in Digital Rights & Regulation, [@UCLLaws](https://twitter.com/UCLLaws)
 

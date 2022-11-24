@@ -1,7 +1,9 @@
 ---
+template: blog-post
 title: Mastodon 101
-date: 2022-11-01T04:34:54.531Z
-template: post
+slug: 5 mins guide to Mastodon
+date: 2022-11-01
+description: What you need to know about Mastodon
 ---
 
 
@@ -13,7 +15,8 @@ Take time to consider where you want sign up; the .social community, where many 
 If you're in Ireland, consider joining Mastodon, there is an Irish 'instance' (community) at [http://Mastodon.ie](https://t.co/AoP6q832AU).
 * UK > <https://mastodon.org.uk/about>
 * SG > <https://kopiti.am/about>
- ~~You can move, and export and transfer your list of who you follow, but you cannot also move your followers, who will have to refollow.~~ .
+
+~~You can move, and export and transfer your list of who you follow, but you cannot also move your followers, who will have to refollow.~~ .
 
 You register a new account at the place you want to be, in settings there you can indicate an 'alias' (that it expects to be ported to). then in the old account, you can set it to migrate and it will see there is a willing recipient.
 

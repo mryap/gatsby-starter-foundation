@@ -1,11 +1,12 @@
 ---
 title: Typography
+date: 2020-05-13 09:19:00 Z
 template: blog-post
-date: 2020-05-13 09:19
 slug: typography
-featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
+featuredImage: "/assets/alexander-andrews-zw07kvdahpw-unsplash.jpg"
 description: metaphorically make a deal with the devil
 ---
+
 \# When will that be?\
 \
 I haven't felt much of anything since my guinea pig died. Oh, but you can. But you may have to metaphorically make a deal with the devil. And by "devil", I mean Robot Devil. And by "metaphorically", I mean get your coat.\

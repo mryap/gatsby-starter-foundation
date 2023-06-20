@@ -1,12 +1,13 @@
 ---
-template: blog-post
 title: Metrics for decision making in product development
+date: 2017-11-14 17:20:00 Z
+template: blog-post
 slug: Metrics for decision making in product development
-date: 2017-11-14 17:20
-description: If you want your product’s design to be informed by data, it helps
-  to have metrics that reflect the quality of the user experience that map
-  closely to your main goals.
+description: If you want your product’s design to be informed by data, it helps to
+  have metrics that reflect the quality of the user experience that map closely to
+  your main goals.
 ---
+
 Google's HEART framework for user-centered metrics measure different parts of the product life cycle.
 
 The framework reflects

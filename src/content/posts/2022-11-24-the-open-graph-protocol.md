@@ -1,11 +1,12 @@
 ---
-template: blog-post
 title: The Open Graph Protocol
+date: 2018-03-19 17:16:00 Z
+template: blog-post
 slug: The Open Graph Protocol
-date: 2018-03-19 17:16
-description: You've created a compelling website and brand, don't squander it
-  away when you try to share your content on social network.
+description: You've created a compelling website and brand, don't squander it away
+  when you try to share your content on social network.
 ---
+
 Have you ever posted your content to a social network & found:
 
 - Image shown was RSS icon, a print button, or some other irrelevant image?

@@ -1,11 +1,10 @@
 ---
-template: blog-post
 title: Mastodon 101
+date: 2022-11-01 00:00:00 Z
+template: blog-post
 slug: 5 mins guide to Mastodon
-date: 2022-11-01T00:00:00.000Z
 description: What you need to know about Mastodon
 ---
-
 
 Moving to Mastodon? Make life easier for your followers. Post your new handle as a web link such as “[http://mastodon.social/@mryap](https://t.co/LJkocpWVwj)”, not “@mryap@mastodon.social” which displays as an email address.
 

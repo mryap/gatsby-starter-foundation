@@ -1,10 +1,11 @@
 ---
-template: blog-post
 title: The Business of Container
+date: 2017-11-15 17:13:00 Z
+template: blog-post
 slug: The Business of Container
-date: 2017-11-15 17:13
 description: Docker is a lightweight virtual machine using Linux technology.
 ---
+
 When you mention Excel, you mean spreadsheet. 
 Say “Docker”, and you quite possibly mean lightweight virtual machine using Linux technology.
 

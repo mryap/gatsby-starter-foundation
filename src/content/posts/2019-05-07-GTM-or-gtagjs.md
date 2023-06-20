@@ -1,9 +1,8 @@
 ---
-template: blog-post
 title: Google Tag Manager (GTM) or Global Site Tag (gtag.js)
-date: 2019-05-07 
+date: 2019-05-07 00:00:00 Z
+template: blog-post
 slug: Google Tag Manager (GTM) or Global Site Tag (gtag.js)
-#image: "/img/measurement-in-mutli-screen-world5.jpg"
 ---
 
 Google Tag Manager is a robust and full-featured tag management system, which supports Google and 3rd party tags(Facebook conversion pixels or heatmapping tool tags). 

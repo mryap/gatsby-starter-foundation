@@ -1,11 +1,12 @@
 ---
-template: blog-post
 title: Capturing measurements in Google Analytics
+date: 2019-03-28 17:08:00 Z
+template: blog-post
 slug: Capturing measurements in Google Analytics
-date: 2019-03-28 17:08
-description: How to send additional interaction data to Google Analytics to get
-  a better picture of how users are experiencing your site or application.
+description: How to send additional interaction data to Google Analytics to get a
+  better picture of how users are experiencing your site or application.
 ---
+
 Before you can send data to Google Analytics, you have to add the `analytics.js` library and the default `tracking snippet` to your page.
 
 The analytics.js tracking snippet does four main things:

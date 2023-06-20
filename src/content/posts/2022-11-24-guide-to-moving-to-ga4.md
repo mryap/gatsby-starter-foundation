@@ -1,10 +1,11 @@
 ---
-template: blog-post
 title: Guide to moving to GA4
+date: 2022-10-17 17:05:00 Z
+template: blog-post
 slug: Guide to moving to GA4
-date: 2022-10-17 17:05
 description: Things to look out for when switching to Google Analytics 4
 ---
+
 Adjust Session Timeout
 
 Configure how long it takes a session to timeout after a user stops interacting with the website, and how long a user has to engage with site content before a session is engaged.
